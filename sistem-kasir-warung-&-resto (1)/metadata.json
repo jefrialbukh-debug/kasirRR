@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Kasir Warung & Resto",
+  "description": "Aplikasi Kasir (POS) dan Dashboard Admin modern untuk usaha warung/restoran dengan manajemen stok real-time, cetak struk digital, dan laporan penjualan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
